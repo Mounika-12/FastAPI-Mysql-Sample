@@ -1,0 +1,58 @@
+# Python related
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Virtual environment
+pyvenv/
+venv/
+ENV/
+env/
+*.env
+*.venv
+
+# Distribution / packaging
+.Python
+build/
+dist/
+.eggs/
+.eggs-info/
+*.egg-info/
+*.egg
+
+# Test and coverage
+.coverage
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+*.mo
+*.pot
+*.py[cod]
+*.ipynb_checkpoints
+
+# Pytest
+.cache
+*.pytest_cache/
+
+# MySQL
+*.sql
+*.sql.gz
+
+# IDEs and editors
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+alembic/versions
